@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VIGNESHV26
 - 👀 I’m interested in code 
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me michelwitvicky2664@gmail.com
 
 <!---
